@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody fight in the north on Munday last July 17. 1648. 12000 Scots with Duke Hambleton pursued Major Generall Lambert to Appleby, and wounded Col. Harrison, a member of the House of Commons, killed Captain Crumwels Lieutenant, and others. With the losse of a collonell, and 300 officers and souldiers. And a list of the particulars on both sides, with the taking of Appleby Town by the Scots.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76879</idno>
+            <idno type="STC">Wing B3251</idno>
+            <idno type="STC">Thomason E454_10</idno>
+            <idno type="STC">ESTC R204990</idno>
+            <idno type="EEBO-CITATION">99864436</idno>
+            <idno type="PROQUEST">99864436</idno>
+            <idno type="VID">116665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116665)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody fight in the north on Munday last July 17. 1648. 12000 Scots with Duke Hambleton pursued Major Generall Lambert to Appleby, and wounded Col. Harrison, a member of the House of Commons, killed Captain Crumwels Lieutenant, and others. With the losse of a collonell, and 300 officers and souldiers. And a list of the particulars on both sides, with the taking of Appleby Town by the Scots.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116665:1" rendition="simple:additions"/>
+            <p>A Bloody Fight in the NORTH On Munday laſt July 17. 1648.</p>
+            <p>12000 Scots with Duke <hi>Hambleton</hi> pur<g ref="char:EOLhyphen"/>ſued Major Generall <hi>Lambert</hi> to <hi>Appleby,</hi> and wounded Col. <hi>Harriſon,</hi> a Member of the Houſe of Commons, killed Captain <hi>Crumwels</hi> Lieutenant, and others.</p>
+            <p>With the loſſe of a Collonell, and 300 Officers and Souldiers.</p>
+            <p>AND A Liſt of the particulars on both ſides, With the Taking of <hi>Appleby</hi> Town by the Scots.</p>
+            <p>
+               <add>July 25</add> LONDON Printed for <hi>H. Becke,</hi> and are to be ſold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116665:2"/>
+            <head>A BLOODY FIGHT IN The NORTH on Munday laſt, <hi>July</hi> 17. 1648.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Wrote to you by Captaine <hi>Liſley,</hi> but could not get time then to ſend you the Copies of Duke <hi>Hamiltons</hi> letter to the Major General of the 6th of July, dated at <hi>Annan,</hi> and of his anſwer thereunto but I doubt not but you have ſeen them both ere this time. Since which, upon our certaine information that the <hi>Scots</hi> were in <hi>England,</hi> the Major Generall ſent a letter to the Duke, and hath received an an<g ref="char:EOLhyphen"/>ſwer from him, a coppy of both which <hi>I</hi> have here incloſed ſent you.</p>
+            <p>The <hi>Scots</hi> and <hi>Langdale</hi> together, we heare are a<g ref="char:EOLhyphen"/>bout 12000. the Duke commands in chief both <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> and <hi>Scots.</hi>
+            </p>
+            <pb n="2" facs="tcp:116665:3"/>
+            <p> We have ſent for ſuch Forces as we expect out of the reſt of the Northern Counties to come up to us, which we hope will not be inconſiderable, and will not be long before they come to us, and when they come, we ſhall, I think, viſit our enemy, unleſſe wee have command from the Parliament to the contrary.</p>
+            <p>With my Lord Dukes Trumpet came another Meſ<g ref="char:EOLhyphen"/>ſenger with a large Declaration from the Committee of Eſtates in <hi>Scotland,</hi> and from the ſaid Commit<g ref="char:EOLhyphen"/>tee had lines to the King and to the Parliament, and many private lines directed with ciphers, which that key perhaps may open, We have ſent an Officer with the ſaid Meſſenger, and have ſent all the private lines incloſed together to the Parliament, with the ſaid ciphers, By which we think there will (if they be wiſe in diſcovery) appeare much of deſigne<g ref="char:punc">▪</g>
+            </p>
+            <p>We hear there were much diſcontent among <hi>Lang<g ref="char:EOLhyphen"/>dales</hi> Forces in regard the Scots would doe little, and put the Engliſh to the duty, and front, and themſelves lye behind, which the Cavaliers would not be gull<g ref="char:EOLhyphen"/>ed in, and therefore made the Scots march in the Van.</p>
+            <p>Upon the advance of the Scots towards <hi>Penrith,</hi> Major Generall <hi>Lambert</hi> having no Garriſon therea<g ref="char:EOLhyphen"/>bouts, retreated to <hi>Appleby,</hi> where he gave order for the ſecuring of the Caſtle, and to make good the Towne with what ſecurity might be.</p>
+            <p>On Munday July 17 Major Generall <hi>Lambert,</hi> or<g ref="char:EOLhyphen"/>dered Collonell <hi>Harriſon</hi> to keep a paſſe at <hi>Appleby</hi> bridge, with a Guard of Horſe, and put in a Regia<g ref="char:EOLhyphen"/>ment of Foot into the Towne, and ſent the reſt of the Foot of his Army to quarters Southward, and ſix
+<pb n="3" facs="tcp:116665:3"/>Regiaments of Horſe were ordered for their out-guards,</p>
+            <p>That day Duke <hi>Hamilton</hi> with the Scots Forces, and Sir <hi>Marmaduke Langdales</hi> joyned together which made about 12000 marched up towards <hi>Appleby</hi> with their whole body.</p>
+            <p>The Scots came up about noon that day with their van, within a few miles of <hi>Appleby,</hi> and their whole Army following in a body.</p>
+            <p>They had a Deſigne to have then ſurpriſ<g ref="char:EOLhyphen"/>ed our Forces in <hi>Appleby.</hi> But the waters were ſo high, by reaſon of much raine; that had lately fallen, that they could not come over the brooks as at other times.</p>
+            <p>Collonel <hi>Harriſon</hi> charged the Scots at <hi>Apple<g ref="char:EOLhyphen"/>by</hi> townes end, and led on his men himſelfe about two of the clock in the after-noon, but the Scots came ſo thick upon him that he was exceedingly overpowered.</p>
+            <p>And at laſt (after a valiant and ſtout charge) they had ſo hemmed in Col. <hi>Harriſon,</hi> that he was forced to ſurrender himſelf priſoner.</p>
+            <p>But his Souldiers ſeeing themſelves like to have no quarter by reaſon of their cutting of Col. <hi>Harriſon,</hi> rather then to ſee ſo gallant a
+<pb n="4" facs="tcp:116665:4"/>man put to the ſword, they reſolved as one man to die preſently rather then to ſuffer it.</p>
+            <p>Hereupon they fell upon the Scots with ſuch reſolution, that they ſlew divers of them and reſcued Collonell <hi>Harriſon</hi> from them. And by that time the Foot in <hi>Appleby</hi> Town having taken an Alarm, came up, and reliev<g ref="char:EOLhyphen"/>ed the Horſe, whereby the Scots were beaten off, and after this 60 of them were ſurprized in a Barn, all put to the Sword by Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Lamberts</hi> forces. This fight laſted un<g ref="char:EOLhyphen"/>till ten of the clock at night, there having bin many ſlain, and wounded. And at laſt, the buſineſſe was ſo ordered, Col. <hi>Hariſon</hi> made an honourable retreat, having left a ſufficient ſtrength in <hi>Appleby</hi> Caſtle, which it is hoped will be ſufficient to keep out the Scots.</p>
+            <closer>
+               <dateline>Liverpoole <date>21 July, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Munday laſt Major Generall <hi>Lam<g ref="char:EOLhyphen"/>bert,</hi> did for eaſe of his men and their Quarters, ſend a great party of his Foot, and ſix Regiaments of Horſe from <hi>Appleby,</hi> about
+<pb n="5" facs="tcp:116665:4"/>foure or five miles. Afterwards, that day the Scots army ſuppoſed to be about 10000 joyned with <hi>Langdales</hi> Forces, endevoured to have ſurprized our forces at <hi>Appleby,</hi> where Col. <hi>Harriſon</hi> and onely one Regiament of horſe had the guard that day. But the wa<g ref="char:EOLhyphen"/>ter being up by the raine which fell on Sun<g ref="char:EOLhyphen"/>day laſt. Col. <hi>Harriſon</hi> ſecured the Bridge, and ſent parties both horſe and foot over the Bridge, the enemies Dragoones played ſore upon our Fort. The fight laſted from about two of the clock, till neer ten at night, with extream hard ſervice, but the enemies cou<g ref="char:EOLhyphen"/>rage was ſo cooled with the round check which the <hi>Lancaſhire</hi> men gave them at the firſt charge, after our men were relieved; that the Scots continually fled off with loſſe: God gloriouſly appeared for us, we loſt not above 3 or 4 men, the Enemy very many, and abundance of Armes. Col: <hi>Hariſon</hi> is ſore wounded, but as is reported to me, not mor<g ref="char:EOLhyphen"/>tally, my intelligence ſaith further, that the Enemy fought very cowardly, threw down their armes and run away, and night com<g ref="char:EOLhyphen"/>ming, the enemy drew off, and lodged on a
+<pb n="6" facs="tcp:116665:5"/>Moore, our men at break of day marched a<g ref="char:EOLhyphen"/>way to joyn with our other forces.</p>
+            <closer>
+               <dateline>Mancheſter in Lancaſhire <date>July 21. 1648</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_battle_details">
+            <head>A Liſt of the particulars of the fight at <hi>Appleby,</hi> between the Scots and Engliſh Armies, on Munday July the <hi>17. 1648.</hi>
+            </head>
+            <list>
+               <head>Of the Scots loſſe;</head>
+               <item>1 Collonel ſlain.</item>
+               <item>15 Officers and Souldiers ſlain in <hi>Appleby,</hi>
+               </item>
+               <item>200 and odde (ſaid to be) ſlain afterward.</item>
+               <item>60 ſlain in a Barn,</item>
+               <item>300 Wounded.</item>
+               <item>50 Taken pri<g ref="char:EOLhyphen"/>ſoners,</item>
+               <item>300 Armes taken.</item>
+            </list>
+            <list>
+               <head>Of the Engliſh loſſe.</head>
+               <item>Collonell <hi>Harriſon</hi> wounded in three places.</item>
+               <item>Cap<g ref="char:EOLhyphen"/>tain <hi>Crumwels</hi> Lieutenant ſlain,</item>
+               <item>5 ſlain at <hi>Appleby.</hi>
+               </item>
+               <item>Divers Officers and Souldiers wounded.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
